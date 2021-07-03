@@ -8,6 +8,10 @@
 
 ##How to contribute
 
+###COpyright
+
+2021 Git.Training
+
 
 
 
